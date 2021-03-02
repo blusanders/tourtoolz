@@ -1,0 +1,24 @@
+*{
+    border: black solid 1px;
+}
+.storageContainer{
+    background-color:bisque;
+}
+
+.storageColumn{
+    width: 75;
+}
+
+.storageColumnSelected{
+    width: 75;
+    background-color:chocolate;
+}
+
+.storageColumn{
+    width: 75;
+}
+
+.storageRow{
+    height: 75px;
+    text-align: center;
+}
